@@ -1,10 +1,10 @@
-# Yuchen Yao — Research Portfolio
+# Research Portfolio
 
-Undergraduate in Computer Science and Technology at Tsinghua University (Xinya College), expected Jul 2027.
+
 
 **Research interests:** LLM evaluation, RAG / agents, multi-agent communication, agent simulation, long-term memory, post-training, and AI4Science.
 
-**Email:** yaoyc23@mails.tsinghua.edu.cn
+
 
 ## Selected Research Projects
 
